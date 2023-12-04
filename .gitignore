@@ -2,3 +2,4 @@
 .chroma
 .idea
 __pycache__
+constants.py
